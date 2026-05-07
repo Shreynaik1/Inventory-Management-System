@@ -76,7 +76,13 @@ Your app will be available at: [http://localhost:3000](http://localhost:3000)
 
 ## 🖼️ Screenshots
 
-> 📸 Add screenshots of your Dashboard, Inventory Management, Add Product form, and Analytics charts here to showcase the application.
+<img width="1897" height="858" alt="Screenshot 2026-05-08 031406" src="https://github.com/user-attachments/assets/7ea130d9-5e15-42c4-8d8e-19720f49d33e" />
+<img width="1882" height="873" alt="Screenshot 2026-05-08 030833" src="https://github.com/user-attachments/assets/4245248d-b474-4b23-b377-16a12f05c0f6" />
+<img width="1912" height="857" alt="Screenshot 2026-05-08 031559" src="https://github.com/user-attachments/assets/9e783c1b-7552-436e-b498-5bb1a24a64a5" />
+<img width="1892" height="855" alt="Screenshot 2026-05-08 031546" src="https://github.com/user-attachments/assets/56efe70a-daac-4fc3-8c0a-dfa4f6298862" />
+<img width="1917" height="857" alt="Screenshot 2026-05-08 031433" src="https://github.com/user-attachments/assets/d3203822-58ea-4153-ab23-7c4d4d830d3b" />
+<img width="1917" height="857" alt="Screenshot 2026-05-08 031419" src="https://github.com/user-attachments/assets/3f00df65-aa07-4a4a-a307-a5889ff5d3d8" />
+
 
 ---
 
